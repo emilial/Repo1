@@ -4,3 +4,4 @@ echo "moje zmiany"
 echo `date`
 echo "cos tam cos tam"
 echo "moje repozytorium"
+echo "djfhgduhfdkfu"
